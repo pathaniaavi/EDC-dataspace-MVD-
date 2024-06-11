@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "@vocab": "https://w3id.org/edc/v0.0.1/ns/"
+  },
+  "counterPartyAddress": "http://company1:8282/api/dsp",
+  "protocol": "dataspace-protocol-http"
+}

@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://w3id.org/edc/v0.0.1/ns/"
+  },
+  "@type": "ContractRequest",
+  "counterPartyAddress": "http://company1:8282/api/dsp",
+  "protocol": "dataspace-protocol-http",
+  "policy": {
+    "@context": "http://www.w3.org/ns/odrl.jsonld",
+    "@id": "ZGVmLXRlc3QtZG9jdW1lbnRfY29tcGFueTI=:dGVzdC1kb2N1bWVudF9jb21wYW55Mg==:ZTdjYTc1ODctODFlNi00ZDI0LWIxMTUtZmIwMjkwNDZiMGYy",
+    "@type": "Offer",
+    "assigner": "provider",
+    "target": "assetId"
+  }
+}
